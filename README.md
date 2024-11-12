@@ -4,9 +4,12 @@ This assumes you have followed all setup available from https://github.com/veand
 
 ## License
 Please be aware while this project is licensed under the MIT license, the projects for SDL2 and go-sdl2 have other 
-licenses, while I waive the right to keep the copy of this project's MIT license with the shareable project, you still 
-have to include and abide by the other projects requirements when sharing.
-
+licenses, while I waive the right to keep the copy of this project's MIT license with the shareable executable project, 
+you still have to include and abide by the other projects requirements when sharing.  
+As such:  
+- [SDL2 binding for Go](https://github.com/veandco/go-sdl2?tab=BSD-3-Clause-1-ov-file) retains its BSD-3-Clause license,
+- [SDL2](https://github.com/libsdl-org/SDL?tab=Zlib-1-ov-file) retains the Z-lib license
+- While the Go files provided in this template repository and this readme are licensed under the MIT
 
 ## Steps to build on macOS
 ### Building SDL2 for universal builds
